@@ -1,0 +1,18 @@
+{
+  "name": "hacker_news",
+  "version": "1.0.0",
+  "description": "hacker news clone with next.js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next",
+    "debug": "NODE_OPTIONS=--inspect next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
