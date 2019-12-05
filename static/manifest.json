@@ -1,0 +1,17 @@
+{
+    "name": "Hacker News",
+    "short_name": "HackerN",
+    "lang": "fr-FR",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#f60",
+    "icons": [
+      {
+        "src": "/static/icons/logo.png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/static/icons/logo.png"
+      }
+    ]
+  }
