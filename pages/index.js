@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 import Footer from "../components/footer";
 
 const Home = ( {data ,page} ) => {
-    console.log(data)
+
     if (data === null ){
         return <Error statusCode={404} />
     }

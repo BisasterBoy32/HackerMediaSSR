@@ -5,8 +5,6 @@ import Comments from "../components/comments.js";
 
 const Story = ({ storyData}) => {
 
-    console.log(storyData)
-
     if ( storyData === null) {
         return <Error statusCode={404} />
     }
